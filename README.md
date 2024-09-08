@@ -1,6 +1,6 @@
 
 
-# Random Web Navigation Automation Script
+
 
 This Python script simulates random forward and backward navigation in a web browser. It runs indefinitely, making periodic random navigation actions, and stops only when the `END` key is pressed. The script is designed for Windows and hides its console window upon execution.
 
