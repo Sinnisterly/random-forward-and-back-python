@@ -29,4 +29,4 @@ while True:
         navigate_back()
     
     if keyboard.is_pressed('end'):  # exit script when END key is pressed
-        break
+        exit()
